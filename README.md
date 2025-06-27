@@ -1,6 +1,6 @@
 # Betting Engine ⚙️
 
-[![Build Status](https://img.shields.io/github/actions/workflow/status/your-username/betting-engine/ci.yml?branch=main)](https://github.com/brandonv73/Betting_Engine.Project/actions)  
+[![Build Status](https://img.shields.io/github/actions/workflow/status/brandonv73/Betting_Engine.Project/ci.yml?branch=main)](https://github.com/brandonv73/Betting_Engine.Project/actions)  
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 A Python engine for the full betting lifecycle: real-time odds ingestion and normalization, risk-based stake calculation (Kelly), high-concurrency matching, Flask REST API for user and bet management, and a scalable relational database with backtesting and dashboard hooks.
