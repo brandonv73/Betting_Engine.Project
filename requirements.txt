@@ -1,0 +1,8 @@
+selenium
+pandas
+sqlalchemy
+click
+apscheduler
+streamlit
+python-telegram-bot
+scipy
